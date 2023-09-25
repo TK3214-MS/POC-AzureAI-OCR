@@ -1,0 +1,1 @@
+# POC-AzureAI-OCR
